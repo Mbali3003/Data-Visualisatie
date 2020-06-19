@@ -22,7 +22,7 @@
   
   <p>Later heb ik zelf ook nog een beetje pyplot geleerd, doordat sommige dingen, zoals het maken van subplots makkelijker te doen waren met pyplot. Pyplot is eigenlijk hetzelfde als Seaborn, maar wordt wat vaker gebruikt.</p>
   
-  <li><h3>Onderzoek</h3></li>
+  <h2>Onderzoek</h2>
   
    <p>Voordat wij konden beginnen met het onderzoek moesten we een vraag bedenken die wij wouden beantwoorden. Uiteindelijk kwamen wij uit op de vraag:</p>
    
@@ -49,7 +49,7 @@
     <p>Ik heb dit project met mijn vader gedaan en vond het erg leuk om te doen. Ik merk wel dat doordat ik het met z'n twee hebben gedaan, dat het een stuk leuker was. 
     Dit project heeft mij veel nieuwe dingen geleerd, zoals om te gaan met pandas en het visualiseren van data. Dit was een leuk project en een leuke afsluiting voor dit jaar.</p>
    
-   <li><h2>Links</h2></li>
+   <li><h4>Links</h4></li>
     <p>Logboek</p>
     <p>Kaggle</p>
  
