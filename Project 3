@@ -1,1 +1,58 @@
+ <!DOCTYPE html>
+<html>
+<head>
 
+<h1>Project 3: Data Visualisatie</h1>
+
+</head>
+<body style="background-color:aliceblue;">
+
+ <ul>
+  <h2>Kaggle</h2>
+  
+  <li><h3>Pandas en Data Visualisatie</h3></li>
+ 
+  <p>Dit project bestond uit twee delen: Kennis vergaren en een onderzoek. Het kennis vergaren deden wij via Kaggle en ik heb geleerd over Pandas en Data Visualisatie.</p>
+  
+  <p>Pandas is een gereedschap waarmee je een dataset zo kunt aanpassen dat hij voor jou te gebruiken is. Zo kun je het gemiddelde uitrekenen, kijken hoeveel kolommen en rijen er zijn, de index aanpassen, namen veranderen en nog veel meer.
+  In het eerste deel van mijn logboek (de link is onderaan te vinden)  beschrijf ik wat ik heb geleerd en hoe dat ging.</p>
+  
+  <p>Bij de cursus Data Visualisatie heb ik geleerd, zoals de naam al zegt, om data te visualiseren. Dit deden wij aan de hand van Seaborn, een programma wat je commando's geeft zodat je mooie grafieken en tabellen kunt maken.
+  Met Seaborn kun je lijngrafieken, heatmaps, scatterplots en meer maken. Ook kun je de stijl van je grafieken veranderen door bijvoorbeeld de lettergrootte en kleur aan te passen.</p>
+  
+  <p>Later heb ik zelf ook nog een beetje pyplot geleerd, doordat sommige dingen, zoals het maken van subplots makkelijker te doen waren met pyplot. Pyplot is eigenlijk hetzelfde als Seaborn, maar wordt wat vaker gebruikt.</p>
+  
+  <li><h3>Onderzoek</h3></li>
+  
+   <p>Voordat wij konden beginnen met het onderzoek moesten we een vraag bedenken die wij wouden beantwoorden. Uiteindelijk kwamen wij uit op de vraag:</p>
+   
+   <p>Is het aantal faillissementen in de eerste weken van 2020 gestegen ten opzichte van dezelfde periode in 2019?</p>
+   
+   <p>Was dit waar, dan zou je als uitleg COVID-19 verantwoordelijk kunnen houden. Deze vraag konden wij vrij snel beantwoorden, namelijk door gebruik te maken van een dataset van het CBS en die als lijngrafiek te visualiseren. 
+   Hieruit bleek dat de hoeveelheid faillissementen gestegen waren. Een grafiek die de relatieve verhouding tussen 2020 en 2015-2019 weergaf, bewees hetzelfde.</p>
+   
+   <p>Alleen konden we met deze data er nog niet achter komen waardoor het nou precies kwam. Dat zou pas later kunnen, wanneer meer data bekend is. 
+   Mede doordat het aantal faillissementen weergegeven in mei hoogstwaarschijnlijk al in april waren begonnen enz., 
+   maar ook doordat o.a. niet de hele sector Horeca last heeft van COVID-19, maar enkele delen ervan.</p>
+  
+  <p>Ondanks dit hebben we een heatmap gemaakt om te kijken naar het aantal faillissementen per sector, 
+   hier zagen wij dat Handel en Horeca beide nadeeel hadden in 2020, terwijl communicatie juist minder faillissementen had. Van deze heatmap hadden wij een paar sectoren gekozen en die verder weergegeven in een lijngrafiek.
+   Toen we de lijngrafiek zagen, vonden wij dat de verschillen die wij zo interessant vonden, eigenlijk minder betekenis hadden, wanneer ook 2016 en 2015 erbij werden gehaald.
+   De lijnen waren in die jaren namelijk vaak hoger dan in 2020, natuurlijk zou dit mogelijk kunnen zijn doordat er toen misschien een crisis was, maar daar zou je dus ook informatie naar moeten zoeken.</p>
+   
+   <p>Als laatste hebben wij een paar subplots gemaakt(meerdere grafieken naast en onder elkaar) van ieder jaar apart en dan het relatief totaal aantal sectoren en het relatief totaal van Horeca en Handel. 
+   Deze grafieken lieten een immense ping-pong beweging zien van de Handel en Horeca, bovendien waren in veel jaren voor 2020 het aantal faillissementen hoger dan dat ze nu zijn.</p>
+   
+   <p>Al in al moet er meer onderzoek gedaan worden voordat duidelijk kan worden of COVID-19 werkelijk een effect heeft op het aantal faillissementen, zoals onderzoek naar crisissen in afgelopen jaren en meer verdieping in de sectoren.</p> 
+ 
+ <li><h3>Mening</h3></li>
+    <p>Ik heb dit project met mijn vader gedaan en vond het erg leuk om te doen. Ik merk wel dat doordat ik het met z'n twee hebben gedaan, dat het een stuk leuker was. 
+    Dit project heeft mij veel nieuwe dingen geleerd, zoals om te gaan met pandas en het visualiseren van data. Dit was een leuk project en een leuke afsluiting voor dit jaar.</p>
+   
+   <li><h2>Links</h2></li>
+    <p>Logboek</p>
+    <p>Kaggle</p>
+ 
+</ul> 
+</body>
+</html> 
